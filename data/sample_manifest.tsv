@@ -1,3 +1,4 @@
 sample	status	group
 biomarker-panel-evaluator-01	ready	control
 biomarker-panel-evaluator-02	review	case
+biomarker-panel-evaluator-03	queued	validation
